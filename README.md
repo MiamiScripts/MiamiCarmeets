@@ -13,3 +13,9 @@ I will be sharing more scripts in the future
 
 # Installation
 Simply drag and drop this folder to you resources directory and give it a start on server.cfg then restart your server
+
+# Other Scripts Im Working On
+
+[MiamiDyno](https://streamable.com/qikwml)
+
+[MiamiRagWash](https://streamable.com/xz63fi)
