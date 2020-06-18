@@ -7,7 +7,7 @@ You can edit this how you like and share improved versions, Just please credit m
 
 If you would like to support me you can donate to this paypal link
 
-[My Paypal](paypal.me/NNass)
+[My Paypal](https://paypal.me/NNass?locale.x=en_US)
 
 I will be sharing more scripts in the future
 
