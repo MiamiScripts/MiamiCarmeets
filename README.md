@@ -1,2 +1,15 @@
 # MiamiCarmeets
-A script to create carmeets for a certain amount of time
+Made by Nass#1411
+
+You can edit this how you like and share improved versions, Just please credit me.  
+
+[My Discord](https://discord.gg/rN3AdsG)
+
+If you would like to support me you can donate to this paypal link
+
+[My Paypal](paypal.me/NNass)
+
+I will be sharing more scripts in the future
+
+# Installation
+Simply drag and drop this folder to you resources directory and give it a start on server.cfg then restart your server
